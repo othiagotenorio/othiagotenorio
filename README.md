@@ -9,7 +9,7 @@ Eu sou Thiago, sou estudante de banco de dados, futuro desenvolvedor e amante de
 
 
 
-## Coisas que me inspiram:
+## Inspirações:
 
 - ✝ Jesus 
 - 🤖 Ficção Cientifica 
