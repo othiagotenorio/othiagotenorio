@@ -4,7 +4,7 @@
 
 Eu sou Thiago, sou estudante de banco de dados, futuro desenvolvedor e amante de StarTrek. 🔫
 
-- 🌱 Hoje estou estudando JavaScript e me especializando em desenvolvimento Web
+- 🌱 Hoje estou estudando Node.JS, MongoDB e React.
 - 📃 Atualmente estou desenvolvendo um aplicativo para meu TCC, utilizando React Native
 
 
