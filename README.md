@@ -2,7 +2,7 @@
 
 ##
 
-Eu sou Thiago, sou estudante de banco de dados, futuro desenvolvedor e amante de StarTrek. 🔫
+Me chammo Thiago, futuro desenvolvedor e amante de StarTrek. 🔫
 
 - 🐍 Desenvolvedor Python
 
