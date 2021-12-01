@@ -4,7 +4,7 @@
 
 Me chammo Thiago, futuro desenvolvedor e amante de StarTrek. 🔫
 
-- 🐍💾⚙ Desenvolvedor 
+- 🐍💾⚙ Futuro Desenvolvedor 
 
 
 ## Inspirações:
