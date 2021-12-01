@@ -2,7 +2,7 @@
 
 ##
 
-Me chammo Thiago, futuro desenvolvedor e amante de StarTrek. 🔫
+Me chamo Thiago, futuro desenvolvedor e amante de StarTrek. 🔫
 
 - 🐍💾⚙ Futuro Desenvolvedor 
 
