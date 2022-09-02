@@ -2,9 +2,9 @@
 
 ##
 
-Me chamo Thiago, futuro desenvolvedor e amante de StarTrek. 🔫
+DEV Back-end. 🔫
 
-- 🐍💾⚙ Futuro Desenvolvedor 
+- 💾⚙ Desenvolvedor JAVA
 
 
 ## Inspirações:
@@ -30,11 +30,11 @@ Me chamo Thiago, futuro desenvolvedor e amante de StarTrek. 🔫
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="othiagotenorio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
   <img align="center" alt="othiagotenorio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="othiagotenorio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-  <img align="center" alt="othiagotenorio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="othiagotenorio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  
+  
 </div>
 
 ##
