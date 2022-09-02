@@ -6,19 +6,6 @@ DEV Back-end. 🔫
 
 - 💾⚙ Desenvolvedor JAVA
 
-
-## Inspirações:
-
-- ✝ Jesus 
-- 🤖 Ficção Cientifica 
-- 🦠 Vida
-- ✈ Viagens
-
-## Outras curiosidades:
-
-- ☕ Amo café preto
-- 🍕 Melhor comida de final de semana: Pizza
-
 ## Atividades:
 
 <div align="center">
