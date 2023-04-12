@@ -2,9 +2,9 @@
 
 ##
 
-DEV Back-end. 🔫
+Aqui encontrará códigos em Java e Python 🔫
 
-- 💾⚙ Desenvolvedor JAVA
+
 
 ## Atividades:
 
