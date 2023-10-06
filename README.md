@@ -2,7 +2,7 @@
 
 ##
 
-Aqui encontrará códigos em Java e Python 🔫
+Viajante no mundo da tecnologia, explorando ecosistemas em Java entre outras.🔫
 
 
 
