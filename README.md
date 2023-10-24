@@ -2,7 +2,7 @@
 
 ##
 
-Viajante no mundo da tecnologia, explorando ecosistemas em Java entre outras.🔫
+Em constante aprendizado. 🚀
 
 
 
