@@ -28,8 +28,3 @@ Em constante aprendizado. 🚀
 </div>
 
 ##
-
-<p align="center"> 
-  Contagem de visitantes:<br>
-  <img height="20" src="https://profile-counter.glitch.me/othiagotenorio/count.svg" />
-</p>
