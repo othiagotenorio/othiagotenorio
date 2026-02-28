@@ -1,8 +1,8 @@
-### Olá, seja bem-vindo ao meu perfil 👋
+### Welcome 👋
 
 ##
 
-Em constante aprendizado. 🚀
+Java developer. 🚀
 
 
 ##
