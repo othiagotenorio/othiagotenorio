@@ -18,14 +18,6 @@ Desenvolvedor Java apaixonado por **Spring Boot**, microsserviços e aplicaçõe
 
 **Mais skills:** JPA/Hibernate, REST APIs, RabbitMQ, Redis, AWS, testes com JUnit/Mockito.
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-[![seu-user's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-user&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-user&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🌐 **Conecte-se comigo**
 
