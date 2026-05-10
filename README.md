@@ -1,7 +1,4 @@
 <div align="center">
-
-![Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Desenvolvedor+Java+%26+Spring+Boot) <!-- Substitua por uma imagem personalizada no Canva -->
-
 # 👋 Olá, Thiago aqui!
 
 Desenvolvedor Java apaixonado por **Spring Boot**, microsserviços e aplicações backend robustas. Residente em **Bauru, São Paulo, Brasil**. Aberto a colaborações e oportunidades! 🚀[web:3]
@@ -29,7 +26,6 @@ Desenvolvedor Java apaixonado por **Spring Boot**, microsserviços e aplicaçõe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-user&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>[web:7]
 
 ## 🌐 **Conecte-se comigo**
 
