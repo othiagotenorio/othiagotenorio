@@ -27,5 +27,3 @@ Desenvolvedor Java apaixonado por **Spring Boot**, microsserviços e aplicaçõe
 **Estou aberto para freelas ou jobs remotos em backend Java!** 📩
 
 ---
-
-⭐ **Deixe uma estrela nos meus projetos e siga para mais updates!**
