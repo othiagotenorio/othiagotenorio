@@ -1,6 +1,6 @@
 # 👋 Olá, Thiago aqui!
 
-Desenvolvedor Java apaixonado por **Spring Boot**, microsserviços e aplicações backend. Residente em **Bauru, São Paulo, Brasil**. Aberto a colaborações e oportunidades! 🚀
+Desenvolvedor Java | **Spring Boot**, **microsserviços** e **aplicações backend**. Residente em **Bauru, São Paulo, Brasil**. Aberto a colaborações e oportunidades! 🚀
 
 ## 🛠️ **Tech Stack**
 
